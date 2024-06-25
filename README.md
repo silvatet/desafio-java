@@ -6,7 +6,7 @@ Contador Simples em Java
 Este é um projeto simples de um contador em Java. O contador pode ser incrementado e seu valor atual pode ser exibido.
 
 Como Usar
-Clone o repositório:
+Clone o repositório:https://github.com/silvatet/desafio-java.git
 
 bash
 Copiar código
